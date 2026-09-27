@@ -1,0 +1,9 @@
+StoreID,StoreName,City,Region
+ST01,Riyadh Central,Riyadh,Central
+ST02,Riyadh North,Riyadh,Central
+ST03,Jeddah Corniche,Jeddah,West
+ST04,Jeddah Mall,Jeddah,West
+ST05,Dammam City,Dammam,East
+ST06,Khobar Plaza,Khobar,East
+ST07,Madinah Gate,Madinah,West
+ST08,Makkah Avenue,Makkah,West
