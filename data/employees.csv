@@ -1,0 +1,41 @@
+EmployeeID,EmployeeName,StoreID,Role
+E001,Emp_1,ST08,Cashier
+E002,Emp_2,ST08,Sales Associate
+E003,Emp_3,ST07,Sales Associate
+E004,Emp_4,ST03,Cashier
+E005,Emp_5,ST06,Sales Associate
+E006,Emp_6,ST05,Supervisor
+E007,Emp_7,ST07,Sales Associate
+E008,Emp_8,ST02,Supervisor
+E009,Emp_9,ST03,Supervisor
+E010,Emp_10,ST04,Sales Associate
+E011,Emp_11,ST04,Cashier
+E012,Emp_12,ST04,Supervisor
+E013,Emp_13,ST01,Sales Associate
+E014,Emp_14,ST07,Sales Associate
+E015,Emp_15,ST04,Sales Associate
+E016,Emp_16,ST01,Sales Associate
+E017,Emp_17,ST01,Sales Associate
+E018,Emp_18,ST06,Sales Associate
+E019,Emp_19,ST05,Sales Associate
+E020,Emp_20,ST08,Sales Associate
+E021,Emp_21,ST05,Sales Associate
+E022,Emp_22,ST05,Sales Associate
+E023,Emp_23,ST08,Sales Associate
+E024,Emp_24,ST07,Supervisor
+E025,Emp_25,ST08,Supervisor
+E026,Emp_26,ST01,Cashier
+E027,Emp_27,ST06,Cashier
+E028,Emp_28,ST03,Sales Associate
+E029,Emp_29,ST08,Sales Associate
+E030,Emp_30,ST04,Cashier
+E031,Emp_31,ST08,Sales Associate
+E032,Emp_32,ST06,Supervisor
+E033,Emp_33,ST04,Sales Associate
+E034,Emp_34,ST08,Sales Associate
+E035,Emp_35,ST04,Sales Associate
+E036,Emp_36,ST01,Sales Associate
+E037,Emp_37,ST05,Sales Associate
+E038,Emp_38,ST05,Sales Associate
+E039,Emp_39,ST06,Sales Associate
+E040,Emp_40,ST06,Sales Associate
